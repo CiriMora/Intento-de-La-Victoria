@@ -1,0 +1,24 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="Limpio_Proyecto_MeshLab.ply" idInFile="-1" visible="0" filename="Limpio_Proyecto_MeshLab.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointColor="252 233 79 255" solidColor="255 255 255 255" boxColor="234 234 234 255" pointSize="3" wireColor="253 253 253 255" wireWidth="1">100001010000000000000100000001011010001010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="Viktoria_C.ply" idInFile="-1" visible="0" filename="../Desktop/ModelosParaPractica/Viktoria_C.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointColor="252 233 79 255" solidColor="192 192 192 255" boxColor="234 234 234 255" pointSize="3" wireColor="64 64 64 255" wireWidth="1">000111010000000000000100000001000000001010100000000100111010110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="VoroAtlas" idInFile="-1" visible="1" filename="Viktoria_con_textura.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointColor="252 233 79 255" solidColor="192 192 192 255" boxColor="234 234 234 255" pointSize="3" wireColor="64 64 64 255" wireWidth="1">100001000000000000000100000001011000010010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
